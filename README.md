@@ -1,0 +1,2 @@
+# e_api_test_compress_v4r2_js.py
+mfds_json_api_compress_v4r2.js をpython用に改変
