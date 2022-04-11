@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 
+# Copyright (c) 2022 Tachibana Securities Co., Ltd. All rights reserved.
+# 2022/03/28, yo.
+
 # mfds_json_api_compress_v4r2.js をpython用に作成
 # v4r2専用。
 # mfds_json_api_compress_v4r2.jsのソースコードから
